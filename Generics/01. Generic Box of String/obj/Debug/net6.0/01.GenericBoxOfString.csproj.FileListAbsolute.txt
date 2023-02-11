@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\bin\Debug\net6.0\01.GenericBoxOfString.exe
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\bin\Debug\net6.0\01.GenericBoxOfString.deps.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\bin\Debug\net6.0\01.GenericBoxOfString.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\bin\Debug\net6.0\01.GenericBoxOfString.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\bin\Debug\net6.0\01.GenericBoxOfString.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\obj\Debug\net6.0\01.GenericBoxOfString.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\obj\Debug\net6.0\01.GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\obj\Debug\net6.0\01.GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\obj\Debug\net6.0\01.GenericBoxOfString.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\obj\Debug\net6.0\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\obj\Debug\net6.0\01.GenericBoxOfString.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\obj\Debug\net6.0\refint\01.GenericBoxOfString.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\obj\Debug\net6.0\01.GenericBoxOfString.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\obj\Debug\net6.0\01.GenericBoxOfString.genruntimeconfig.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\07 - Generics\Generics\01. Generic Box of String\obj\Debug\net6.0\ref\01.GenericBoxOfString.dll

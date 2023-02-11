@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3. Oldest Family Member/1.0.0": {
+        "runtime": {
+          "3. Oldest Family Member.dll": {}
+        }
+      },
+      "2. Creating Constructors/1.0.0": {
+        "runtime": {
+          "2. Creating Constructors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3. Oldest Family Member/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "2. Creating Constructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

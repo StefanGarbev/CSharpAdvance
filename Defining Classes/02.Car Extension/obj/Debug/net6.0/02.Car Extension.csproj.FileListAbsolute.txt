@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\bin\Debug\net6.0\02.Car Extension.exe
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\bin\Debug\net6.0\02.Car Extension.deps.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\bin\Debug\net6.0\02.Car Extension.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\bin\Debug\net6.0\02.Car Extension.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\bin\Debug\net6.0\02.Car Extension.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\obj\Debug\net6.0\02.Car Extension.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\obj\Debug\net6.0\02.Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\obj\Debug\net6.0\02.Car Extension.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\obj\Debug\net6.0\02.Car Extension.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\obj\Debug\net6.0\02.Car Extension.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\obj\Debug\net6.0\02.Car Extension.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\obj\Debug\net6.0\refint\02.Car Extension.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\obj\Debug\net6.0\02.Car Extension.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\obj\Debug\net6.0\02.Car Extension.genruntimeconfig.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\02.Car Extension\obj\Debug\net6.0\ref\02.Car Extension.dll

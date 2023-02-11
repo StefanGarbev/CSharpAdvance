@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\bin\Debug\netcoreapp3.1\1. Diagonal Difference_V1.exe
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\bin\Debug\netcoreapp3.1\1. Diagonal Difference_V1.deps.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\bin\Debug\netcoreapp3.1\1. Diagonal Difference_V1.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\bin\Debug\netcoreapp3.1\1. Diagonal Difference_V1.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\bin\Debug\netcoreapp3.1\1. Diagonal Difference_V1.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\bin\Debug\netcoreapp3.1\1. Diagonal Difference_V1.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\obj\Debug\netcoreapp3.1\1. Diagonal Difference_V1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\obj\Debug\netcoreapp3.1\1. Diagonal Difference_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\obj\Debug\netcoreapp3.1\1. Diagonal Difference_V1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\obj\Debug\netcoreapp3.1\1. Diagonal Difference_V1.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\obj\Debug\netcoreapp3.1\1. Diagonal Difference_V1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\obj\Debug\netcoreapp3.1\1. Diagonal Difference_V1.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\obj\Debug\netcoreapp3.1\1. Diagonal Difference_V1.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\02 - Multidimensional Arrays\Multidimensional Arrays\1. Diagonal Difference_V1\obj\Debug\netcoreapp3.1\1. Diagonal Difference_V1.genruntimeconfig.cache

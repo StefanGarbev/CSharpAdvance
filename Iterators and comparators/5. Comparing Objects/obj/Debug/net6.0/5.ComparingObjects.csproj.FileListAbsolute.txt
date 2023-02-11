@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\bin\Debug\net6.0\5.ComparingObjects.exe
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\bin\Debug\net6.0\5.ComparingObjects.deps.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\bin\Debug\net6.0\5.ComparingObjects.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\bin\Debug\net6.0\5.ComparingObjects.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\bin\Debug\net6.0\5.ComparingObjects.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\obj\Debug\net6.0\refint\5.ComparingObjects.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\obj\Debug\net6.0\5.ComparingObjects.genruntimeconfig.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\5. Comparing Objects\obj\Debug\net6.0\ref\5.ComparingObjects.dll

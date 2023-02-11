@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace _1._Unique_Usernames
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
+            HashSet<string> names = new HashSet<string>();
+
+            for (int i = 0; i < number; i++)
+            {
+                string name = Console.ReadLine();
+                if (!names.Contains(name))
+                { 
+                    names.Add(name);
+                }
+            }
+
+           // Console.WriteLine("------Output------");
+
+            foreach (var name in names)
+            {
+                Console.WriteLine(name);
+            }
+        }
+    }
+}

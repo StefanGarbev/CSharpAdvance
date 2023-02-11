@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\bin\Debug\net6.0\4. Froggy.exe
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\bin\Debug\net6.0\4. Froggy.deps.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\bin\Debug\net6.0\4. Froggy.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\bin\Debug\net6.0\4. Froggy.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\bin\Debug\net6.0\4. Froggy.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\obj\Debug\net6.0\4. Froggy.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\obj\Debug\net6.0\4. Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\obj\Debug\net6.0\4. Froggy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\obj\Debug\net6.0\4. Froggy.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\obj\Debug\net6.0\4. Froggy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\obj\Debug\net6.0\4. Froggy.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\obj\Debug\net6.0\refint\4. Froggy.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\obj\Debug\net6.0\4. Froggy.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\obj\Debug\net6.0\4. Froggy.genruntimeconfig.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\4. Froggy\obj\Debug\net6.0\ref\4. Froggy.dll

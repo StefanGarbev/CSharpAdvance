@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\bin\Debug\net6.0\6.EqualityLogic.exe
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\bin\Debug\net6.0\6.EqualityLogic.deps.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\bin\Debug\net6.0\6.EqualityLogic.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\bin\Debug\net6.0\6.EqualityLogic.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\bin\Debug\net6.0\6.EqualityLogic.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\obj\Debug\net6.0\6.EqualityLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\obj\Debug\net6.0\6.EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\obj\Debug\net6.0\6.EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\obj\Debug\net6.0\6.EqualityLogic.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\obj\Debug\net6.0\6.EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\obj\Debug\net6.0\6.EqualityLogic.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\obj\Debug\net6.0\refint\6.EqualityLogic.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\obj\Debug\net6.0\6.EqualityLogic.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\obj\Debug\net6.0\6.EqualityLogic.genruntimeconfig.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\08 - Iterators and Comparators\Iterators and comparators\6.EqualityLogic\obj\Debug\net6.0\ref\6.EqualityLogic.dll

@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\bin\Debug\net6.0\2. Creating Constructors.deps.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\bin\Debug\net6.0\2. Creating Constructors.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\bin\Debug\net6.0\2. Creating Constructors.exe
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\bin\Debug\net6.0\3. Oldest Family Member.exe
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\bin\Debug\net6.0\3. Oldest Family Member.deps.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\bin\Debug\net6.0\3. Oldest Family Member.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\bin\Debug\net6.0\3. Oldest Family Member.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\bin\Debug\net6.0\3. Oldest Family Member.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\bin\Debug\net6.0\2. Creating Constructors.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\bin\Debug\net6.0\2. Creating Constructors.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\3. Oldest Family Member.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\3. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\3. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\3. Oldest Family Member.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\3. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\3. Oldest Family Member.csproj.CopyComplete
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\3. Oldest Family Member.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\refint\3. Oldest Family Member.dll
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\3. Oldest Family Member.pdb
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\3. Oldest Family Member.genruntimeconfig.cache
+C:\Users\User\Desktop\TU\07-Код\04-C# Advance\Advance\06 - Defining Classes\Defining Classes\3. Oldest Family Member\obj\Debug\net6.0\ref\3. Oldest Family Member.dll
